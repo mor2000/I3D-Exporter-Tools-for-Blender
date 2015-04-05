@@ -26,7 +26,7 @@ These 3 python files let you install an exporter script for your Blender (>=2.7.
 
 Now you should have the option under File/Export to export your model as GIANTS I3D (.i3d)
 
-# Licence
+# License
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
